@@ -1,2 +1,4 @@
-﻿CAPEX Asset ID,Asset Name,Manufacturer,Location,Assigned to,Purchase Date,Status,Photo URL,GitHub Page URL,Last Inspection,Notes
-E676767676767,Turnover Cart,Nanez,Building 67,Racklink,2026-06-08,Active,asset-tag-images/E676767676767.jpg,https://jiasating.github.io/asset-tag/asset.html?id=E676767676767,2026-06-08,Example asset
+﻿CAPEX Asset ID,Asset Name,Manufacturer,Location,Assigned to,Issue Date,Status,Photo URL,GitHub Page URL,Last Inspection,Notes
+E676767676767,Turnover Cart,Nanez,Building 67,Racklink,6/8/2026,Active,asset-tag-images/E676767676767.jpg,https://jiasating.github.io/asset-tag/asset.html?id=E676767676767,6/8/2026,Example asset
+E030090111,Turnover Cart,Shenyi,Building 5,Testing,6/10/2026,Active,asset-tag-images/Shenyi_Turnover_Cart.jpg,https://jiasating.github.io/asset-tag/asset.html?id=E030090111,6/9/2026,New
+E030090110,Turnover Cart,Shenyi,Building 6,Testing,6/10/2026,Active,asset-tag-images/Shenyi_Turnover_Cart.jpg,https://jiasating.github.io/asset-tag/asset.html?id=E030090110,6/9/2026,New
